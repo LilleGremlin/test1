@@ -1,2 +1,2 @@
 Hei, dette er en test.
-test, test
+st, te
